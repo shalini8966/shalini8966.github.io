@@ -1,0 +1,94 @@
+body
+{
+    font-family: 'Chelsea Market', cursive;
+    font-family: 'Open Sans', sans-serif;
+    background-image: url('feedback.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.feedbackContainer
+{
+    height: 500px;
+    width: 1000px;
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform : translateX(-50%) translateY(-50%);
+    background: rgba(94, 90, 90, 0.5);
+    padding: 20px;
+    border: 1px solid #08038C;
+    box-shadow: 0 0 8px 3px #fff; 
+}
+
+
+.homeButton
+{
+    position: relative;
+    display: inline-block;
+    padding: 12px 36px;
+    margin-top: 490px;
+    margin-left: 250px;
+    color:#fff;
+    background: rgba(0,0,0,0.2);
+    border-radius: 40px;
+    font-size: 18px;
+    text-decoration: none;
+    letter-spacing: 2px;
+    overflow: hidden;
+}
+
+.homeButton:hover , .link:hover
+{
+    background: rgb(63, 63, 63);
+    color: #f6f6f6;
+}
+
+.heading
+{
+    padding: 20px 0 10px 15px;
+    text-align: center;
+    font-size: 36px;
+    background: rgba(71, 67, 67, 0.664);
+    color:white;
+    margin : 20px 10px 30px 10px;
+}
+
+.site
+{
+    width:400px;
+    height: 80px;
+    text-align: center;
+    margin-top:50px;
+    padding:10px;
+    margin-left: 300px;
+    font-size: 36px;
+    background: rgba(71, 67, 67, 0.664);
+    color:white;
+    border-radius: 40px;
+}
+
+img
+{
+    width: 150px;
+    height: 150px;
+    margin-top: 30px;
+    margin-left: 120px;
+    border-radius: 50%;
+}
+
+.link
+{
+    position: relative;
+    display: inline-block;
+    padding:10px 20px;
+    margin-top: 5px;
+    color:#fff;
+    background: rgba(0,0,0,0.2);
+    border-radius: 40px;
+    font-size: 18px;
+    text-decoration: none;
+    letter-spacing: 2px;
+    overflow: hidden;
+}

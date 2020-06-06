@@ -1,0 +1,38 @@
+<html>
+
+<head>
+    <title>Feedback</title>
+    <link href = "feedback.css" rel ="stylesheet">
+    <script>
+        function changePicture(img)
+        {    
+            if(img.src.match('good.jpg'))
+                img.src = "thankyou.jpg";
+            else if(img.src.match('ok.jpg'))
+                img.src = "thankyou.jpg";
+            else (img.src.match('bad.jpg'))
+                img.src = "thankyou.jpg";
+               
+        }
+        </script>
+</head>
+
+<body>
+    <div>
+        <div class = "feedbackContainer">
+            <div class = "heading">Please leave your valuable feedback and help us to improvise</div>
+            
+            <a href = "#"><img src = "good.jpg" alt = "good" id="target1" onclick=changePicture(this)></a>
+            <a href = "#"><img src = "ok.jpg" alt = "ok" id="target2" onclick= changePicture(this)></a>
+            <a href = "#"><img src = "bad.jpg" alt = "bad" id="target3" onclick= changePicture(this)></a>
+            <div class = "site" style ="font-size: 22px;">Website to brush up your HTML skills<br>
+                <a href = "https://www.w3schools.com/" class = "link">w3schools</a>
+            </div>
+        </div>    
+            <a href = "index.html" class = "homeButton" style="margin-left: 180px;">Go To Home Page</button>
+            <a href = "quiz.html" class = "homeButton" style="margin-left: 500px;">Wanna Try Again</button>
+            
+    
+</body>
+
+</html>
