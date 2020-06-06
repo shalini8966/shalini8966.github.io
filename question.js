@@ -13,8 +13,8 @@ var questions = [{
     "option3": "<!DOCTYPE HTML>",
     "option4": "</DOCTYPE html>",
     "answer": "3"
-}]
-/*{
+},
+{
     "question": "Which of the following HTML Elements is used for making any text bold ? ",
     "option1": "<p>",
     "option2": "<i>",
@@ -38,4 +38,4 @@ var questions = [{
     "option4": "newref",
     "answer": "3"
 }
-]*/
+]
