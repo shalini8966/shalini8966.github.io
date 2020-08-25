@@ -24,7 +24,9 @@ Quiz Page
 
 ![Screenshot (441)](https://user-images.githubusercontent.com/43793485/91220885-7bd69000-e73a-11ea-85ee-2251f48db59b.png)
 
+Preview 
 
+https://shalini8966.github.io/
 
 
 
