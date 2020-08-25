@@ -22,6 +22,9 @@ Quiz Page
 
 ![Screenshot (439)](https://user-images.githubusercontent.com/43793485/91220324-9f4d0b00-e739-11ea-82f7-e2e2076ce9f2.png)
 
+![Screenshot (441)](https://user-images.githubusercontent.com/43793485/91220885-7bd69000-e73a-11ea-85ee-2251f48db59b.png)
+
+
 
 
 
