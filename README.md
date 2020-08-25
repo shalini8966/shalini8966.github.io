@@ -11,12 +11,15 @@ Technologies used
 -> Javascript
 
 Home Page
+
 ![Screenshot (436)](https://user-images.githubusercontent.com/43793485/91220124-51d09e00-e739-11ea-8b7c-933791b13461.png)
 
 Rules Page
+
 ![Screenshot (438)](https://user-images.githubusercontent.com/43793485/91220279-8f352b80-e739-11ea-8de5-309598fe6cab.png)
 
 Quiz Page
+
 ![Screenshot (439)](https://user-images.githubusercontent.com/43793485/91220324-9f4d0b00-e739-11ea-82f7-e2e2076ce9f2.png)
 
 
